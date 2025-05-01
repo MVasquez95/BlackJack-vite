@@ -1,4 +1,6 @@
 import { pedirCarta } from "./";
+import { valorCarta } from "./card-value.js";
+import { createCard } from "./create-card.js";
 
 /**
  * Turno de la computadora
